@@ -1,3 +1,19 @@
+##  Início Rápido
+
+###  Instalando Dependências
+
+Clone o projeto em sua máquina e instale as dependências com o comando:
+
+```shell
+pip install -i requirements.txt
+```
+
+Para iniciar  a API
+```shell
+paython manage.py runserver
+```
+
+
 ##EndPoints
 
 -[Item]()
