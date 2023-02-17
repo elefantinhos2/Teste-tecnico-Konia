@@ -34,7 +34,7 @@ A criação do Item é definida pelos campos abaixo
 
 | Método | Rota              | Descrição                                                             |
 | ------ | ----------------- | --------------------------------------------------------------------- |
-| POST   | item/             | Gera o token de autenticação.                                         |
+| POST   | item/             | Cadastra um Item no Banco de Dad                                      |
 | GET    | item/             | Lista todos os usuários.                                              |
 | DELETE | /item/:id         | Deleta um Usuario usando seu ID como parâmetro                        |
 
