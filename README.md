@@ -5,7 +5,7 @@
 Clone o projeto em sua máquina e instale as dependências com o comando:
 
 ```shell
-pip install -i requirements.txt
+pip install -r requirements.txt
 ```
 
 Para iniciar  a API
